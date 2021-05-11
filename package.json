@@ -29,5 +29,5 @@
   ],
   "standard": {
     "parser": "babel-eslint"
-  }
+  },"engines" : { "node" : ">=0.12" } 
 }
